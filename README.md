@@ -4,7 +4,7 @@ Remote Connection Manager
 
 
 国内
-https://github.com/LXh-0828/rdp_manager/releases/latest/download/rdp_manager.exe
+ https://githubproxy.cc/https://github.com/LXh-0828/rdp_manager/releases/latest/download/rdp_manager.exe
 Features
 
 国外
