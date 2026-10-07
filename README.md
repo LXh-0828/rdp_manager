@@ -17,7 +17,6 @@ Remote Connection Manager
 ## 下载
 国内
  https://githubproxy.cc/https://github.com/LXh-0828/rdp_manager/releases/latest/download/rdp_manager.exe
-Features
 
 国外
 https://github.com/LXh-0828/rdp_manager/releases/latest/download/rdp_manager.exe
